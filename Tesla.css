@@ -1,0 +1,51 @@
+body{
+    background-image: url(M3-Homepage-Desktop-LHD.jfif);
+    background-size: cover;
+    overflow-y: hidden;
+    
+}
+
+.container{
+    display: flex;
+}
+.a1{
+   
+    position: absolute;
+    top: 20px;
+    right: 350px;
+    font-weight: lighter;
+    
+
+}
+.a2{
+   
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-weight: lighter;
+    
+
+}
+a:hover{
+    background-color: lightgray;
+    border-radius: 10%;
+
+}
+.w{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 9%;
+    
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+
+    
+
